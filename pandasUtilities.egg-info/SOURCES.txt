@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pandasUtilities/__init__.py
+pandasUtilities/pandasUtilities.py
+pandasUtilities.egg-info/PKG-INFO
+pandasUtilities.egg-info/SOURCES.txt
+pandasUtilities.egg-info/dependency_links.txt
+pandasUtilities.egg-info/requires.txt
+pandasUtilities.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pandasUtilities
+Version: 0.0.1
+Summary: Pandas utilities which makes your work with Pandas easy and effective.
+Home-page: https://github.com/gauravshimpi/PandasUtilities
+Author: Gaurav Shimpi
+Author-email: shimpigaurav0@gmail.com
+License: MIT
+Download-URL: https://github.com/gauravshimpi/PandasUtilities/archive/v_0_0_1.tar.gz
+Description: # pandas-utilities
+        Pandas Utility gives you little expanded ease in using pandas.
+        
+Keywords: pandas,utilities,PandasUtilities
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
